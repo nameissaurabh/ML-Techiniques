@@ -1,1 +1,1 @@
-This repository explores the implementation of common Feature Engineering and Models selection techniques in machine learning.
+This repository explores the implementation of common Feature Engineering and Models selection techniques in machine learning model building.
